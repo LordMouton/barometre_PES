@@ -1,7 +1,6 @@
 # Ce script tente d'extraire des données pertinents des réponses aux deux questions
 # ouvertes du baromètre des villes cyclables de la FUB, édition 2017
 #
-library(dplyr)
 library(stringr)
 
 # Lire les données
@@ -11,14 +10,16 @@ lire_donnees <- function (ville){
   data <- read.csv2(nomfic, stringsAsFactors = F)
 }
 #
-#motscles <- c("rue","avenue","boulevard","place","route")
 # Fonction qui cherche des noms de rue dans un texte
 trouve_rues <- function(texte){
   pattern_rue <- "([Rr]ue|[Aa]venue|[Bb]oulevard|[Pp]lace|[Rr]oute) (de|du|des)? (la|le)? [a-zA-Zéèçàù]+"
   str_extract_all(texte[,2],pattern_rue)
 }
 
-# Scripts entier
+# Script
 data_paris <- lire_donnees("Paris")
 rues_paris <- trouve_rues(data_paris)
+
+#reste à faire: enlever les données vides ; vérifier la syntaxe du pattern de recherche; écrire les données
+# dans un fichier lisible ; trouver les points noirs avec le plus grand nombre d'occurences
 #write.csv2(rues_paris,file="rues.csv")
