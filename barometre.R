@@ -12,7 +12,7 @@ lire_donnees <- function (ville){
 #
 # Fonction qui cherche des noms de rue dans un texte
 trouve_rues <- function(texte){
-  pattern_rue <- "([Rr]ue|[Aa]venue|[Bb]oulevard|[Pp]lace|[Rr]oute) (de|du|des)? (la|le)? [:alpha:]+"
+  pattern_rue <- "([Rr]ue|[Aa]venue|[Bb]oulevard|[Pp]lace|[Rr]oute) (des?|du|d\')? (la|les?|l\')? [:alpha:]+"
   rues <- str_extract_all(texte[,2],pattern_rue)
   as.tibble(str_to_lower(rues)) #met tout en minuscule pour homogénéiser
 }
