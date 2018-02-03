@@ -1,0 +1,901 @@
+"";"value";"n"
+"1";"place de la bastille";347
+"2";NA;312
+"3";"place de la concorde";279
+"4";"boulevard magenta";223
+"5";"rue de rivoli";140
+"6";"place de l'étoile";75
+"7";"place d'italie";67
+"8";"porte maillot";66
+"9";"rue lafayette";63
+"10";"place de clichy";58
+"11";"porte d'orléans";52
+"12";"place denfert";44
+"13";"place de l'etoile";43
+"14";"porte de montreuil";42
+"15";"boulevard voltaire";37
+"16";"avenue du général leclerc";33
+"17";"place de la république";33
+"18";"boulevard barbès";29
+"19";"porte de la chapelle";28
+"20";"avenue de la république";27
+"21";"rue de tolbiac";27
+"22";"boulevard saint germain";26
+"23";"boulevard richard";25
+"24";"place de la nation";25
+"25";"porte de clignancourt";25
+"26";"boulevard de l'hôpital";23
+"27";"boulevard des maréchaux";23
+"28";"place pour";23
+"29";"porte d'italie";23
+"30";"boulevard barbes";21
+"31";"boulevard sébastopol";21
+"32";"boulevard de magenta";19
+"33";"boulevard malesherbes";19
+"34";"avenue des champs";18
+"35";"boulevard de belleville";18
+"36";"rue de vaugirard";18
+"37";"avenue de clichy";17
+"38";"boulevard saint-germain";16
+"39";"route et";16
+"40";"rue de la convention";16
+"41";"boulevard saint michel";15
+"42";"boulevard sebastopol";15
+"43";"place de l";15
+"44";"porte dauphine";15
+"45";"boulevard de la villette";14
+"46";"porte de clichy";14
+"47";"rue à";14
+"48";"rue de rome";14
+"49";"rue des pyrénées";14
+"50";"rue réaumur";14
+"51";"rue riquet";14
+"52";"avenue d'italie";13
+"53";"avenue de l'opéra";13
+"54";"avenue du maine";13
+"55";"avenue de la grande";12
+"56";"avenue ledru";12
+"57";"boulevard haussmann";12
+"58";"place charles";12
+"59";"place de l'opéra";12
+"60";"rue froidevaux";12
+"61";"rue marx";12
+"62";"avenue de flandre";11
+"63";"avenue des ternes";11
+"64";"avenue gambetta";11
+"65";"boulevard de clichy";11
+"66";"boulevard de strasbourg";11
+"67";"porte comment";11
+"68";"porte de bagnolet";11
+"69";"rue d'alésia";11
+"70";"rue d'amsterdam";11
+"71";"rue de belleville";11
+"72";"rue de la chapelle";11
+"73";"rue du faubourg du";11
+"74";"rue ordener";11
+"75";"boulevard de l'hopital";10
+"76";"boulevard diderot";10
+"77";"place clichy";10
+"78";"porte de la villette";10
+"79";"porte de vincennes";10
+"80";"route pour";10
+"81";"rue de rennes";10
+"82";"rue des petites";10
+"83";"rue richer";10
+"84";"avenue daumesnil";9
+"85";"boulevard beaumarchais";9
+"86";"boulevard de la chapelle";9
+"87";"boulevard saint-michel";9
+"88";"boulevard saint martin";9
+"89";"boulevard st germain";9
+"90";"place bastille";9
+"91";"place stalingrad";9
+"92";"porte de pantin";9
+"93";"porte quoi";9
+"94";"rue d'alesia";9
+"95";"rue du faubourg saint martin";9
+"96";"rue du renard";9
+"97";"rue tolbiac";9
+"98";"avenue de flandres";8
+"99";"avenue jean";8
+"100";"place d";8
+"101";"place du";8
+"102";"place du châtelet";8
+"103";"porte d";8
+"104";"porte d'aubervilliers";8
+"105";"porte de versailles";8
+"106";"rue d'avron";8
+"107";"rue de crimée";8
+"108";"avenue magenta";7
+"109";"boulevard haussman";7
+"110";"place de catalogne";7
+"111";"place du colonel";7
+"112";"porte où";7
+"113";"rue de charenton";7
+"114";"rue de clichy";7
+"115";"rue du faubourg saint denis";7
+"116";"rue la";7
+"117";"rue la fayette";7
+"118";"rue saint jacques";7
+"119";"avenue de france";6
+"120";"avenue foch";6
+"121";"avenue général leclerc";6
+"122";"avenue marceau";6
+"123";"avenue parmentier";6
+"124";"boulevard de charonne";6
+"125";"boulevard de la bastille";6
+"126";"boulevard de sébastopol";6
+"127";"boulevard du montparnasse";6
+"128";"boulevard raspail";6
+"129";"place d'alésia";6
+"130";"place de la madeleine";6
+"131";"place de la porte";6
+"132";"place du chatelet";6
+"133";"place léon";6
+"134";"place valhubert";6
+"135";"porte de la";6
+"136";"porte de vanves";6
+"137";"porte des lilas";6
+"138";"rue de charonne";6
+"139";"rue de la cité";6
+"140";"rue de la roquette";6
+"141";"rue du chemin";6
+"142";"rue oberkampf";6
+"143";"rue rivoli";6
+"144";"rue royale";6
+"145";"rue saint lazare";6
+"146";"avenue de la porte";5
+"147";"avenue des gobelins";5
+"148";"boulevard et";5
+"149";"boulevard rochechouart";5
+"150";"boulevard saint-marcel";5
+"151";"boulevard saint marcel";5
+"152";"place concorde";5
+"153";"porte d'ivry";5
+"154";"route à";5
+"155";"route aux";5
+"156";"route avec";5
+"157";"route car";5
+"158";"route en";5
+"159";"route par";5
+"160";"rue de bercy";5
+"161";"rue de la coutellerie";5
+"162";"rue de montreuil";5
+"163";"rue de turbigo";5
+"164";"rue du château";5
+"165";"rue du faubourg saint-antoine";5
+"166";"rue du faubourg saint antoine";5
+"167";"rue du faubourg st antoine";5
+"168";"rue du fbg";5
+"169";"rue lecourbe";5
+"170";"rue saint-jacques";5
+"171";"rue saint denis";5
+"172";"rue saint martin";5
+"173";"rue turbigo";5
+"174";"boulevard brune";4
+"175";"boulevard de l";4
+"176";"boulevard de la madeleine";4
+"177";"boulevard de ménilmontant";4
+"178";"boulevard des capucines";4
+"179";"boulevard jules";4
+"180";"boulevard montparnasse";4
+"181";"boulevard ornano";4
+"182";"boulevard périphérique";4
+"183";"boulevard poissonnière";4
+"184";"boulevard sebastopole";4
+"185";"place de";4
+"186";"place de la chapelle";4
+"187";"place des ternes";4
+"188";"place du maréchal";4
+"189";"place en";4
+"190";"place victor";4
+"191";"place voltaire";4
+"192";"porte de gentilly";4
+"193";"route est";4
+"194";"rue beaubourg";4
+"195";"rue buffon";4
+"196";"rue de bagnolet";4
+"197";"rue de bretagne";4
+"198";"rue de lyon";4
+"199";"rue de paris";4
+"200";"rue de provence";4
+"201";"rue de richelieu";4
+"202";"rue de sèvres";4
+"203";"rue du fg";4
+"204";"rue du temple";4
+"205";"rue en";4
+"206";"rue est";4
+"207";"rue legendre";4
+"208";"rue saint honoré";4
+"209";"avenue de saint ouen";3
+"210";"avenue de villiers";3
+"211";"avenue de wagram";3
+"212";"avenue philippe";3
+"213";"boulevard belleville";3
+"214";"boulevard bonne";3
+"215";"boulevard bourdon";3
+"216";"boulevard davout";3
+"217";"boulevard de grenelle";3
+"218";"boulevard de sebastopol";3
+"219";"boulevard montmartre";3
+"220";"boulevard pereire";3
+"221";"boulevard poissonière";3
+"222";"boulevard qui";3
+"223";"boulevard st marcel";3
+"224";"boulevard st michel";3
+"225";"boulevard vincent";3
+"226";"place à";3
+"227";"place auguste";3
+"228";"place aux";3
+"229";"place colonel";3
+"230";"place comme";3
+"231";"place dauphine";3
+"232";"place de bastille";3
+"233";"place de l'alma";3
+"234";"place de la bataille";3
+"235";"place du trocadéro";3
+"236";"place gambetta";3
+"237";"place saint augustin";3
+"238";"place vendôme";3
+"239";"porte d'asnières";3
+"240";"porte de châtillon";3
+"241";"porte de choisy";3
+"242";"porte de paris";3
+"243";"porte de saint-ouen";3
+"244";"porte dorée";3
+"245";"route que";3
+"246";"route qui";3
+"247";"route urbaine";3
+"248";"rue alain";3
+"249";"rue caulaincourt";3
+"250";"rue de chateaudun";3
+"251";"rue de lagny";3
+"252";"rue de maubeuge";3
+"253";"rue de paradis";3
+"254";"rue des amandiers";3
+"255";"rue des grands";3
+"256";"rue des martyrs";3
+"257";"rue des orteaux";3
+"258";"rue du chateau";3
+"259";"rue du faubourg poissonnière";3
+"260";"rue du faubourg saint-denis";3
+"261";"rue du faubourg saint-martin";3
+"262";"rue du faubourg saint honoré";3
+"263";"rue fbg";3
+"264";"rue jean";3
+"265";"rue louis";3
+"266";"rue maubeuge";3
+"267";"rue max";3
+"268";"rue ou";3
+"269";"rue rené";3
+"270";"rue saint-honoré";3
+"271";"rue st jacques";3
+"272";"rue vieille";3
+"273";"avenue benoît";2
+"274";"avenue charles";2
+"275";"avenue de choisy";2
+"276";"avenue de la republique";2
+"277";"avenue de versailles";2
+"278";"avenue du gal";2
+"279";"avenue du maréchal";2
+"280";"avenue du roule";2
+"281";"avenue et";2
+"282";"avenue hoche";2
+"283";"avenue qui";2
+"284";"avenue rené";2
+"285";"avenue rivoli";2
+"286";"avenue sans";2
+"287";"avenue victoria";2
+"288";"boulevard de bonne";2
+"289";"boulevard de la";2
+"290";"boulevard de la république";2
+"291";"boulevard de port";2
+"292";"boulevard de rochechouart";2
+"293";"boulevard de vaugirard";2
+"294";"boulevard de voltaire";2
+"295";"boulevard des italiens";2
+"296";"boulevard des marechaux";2
+"297";"boulevard du palais";2
+"298";"boulevard du temple";2
+"299";"boulevard entre";2
+"300";"boulevard est";2
+"301";"boulevard extérieur";2
+"302";"boulevard garibaldi";2
+"303";"boulevard hausmann";2
+"304";"boulevard hausseman";2
+"305";"boulevard jourdan";2
+"306";"boulevard lafayette";2
+"307";"boulevard lefebvre";2
+"308";"boulevard massena";2
+"309";"boulevard ney";2
+"310";"boulevard pasteur";2
+"311";"boulevard poissonnières";2
+"312";"boulevard saint-denis";2
+"313";"boulevard saint-martin";2
+"314";"boulevard saint denis";2
+"315";"boulevard sans";2
+"316";"boulevard st-michel";2
+"317";"place basch";2
+"318";"place de l'étoil";2
+"319";"place de l'hôtel";2
+"320";"place de la concord";2
+"321";"place de la republique";2
+"322";"place de parking";2
+"323";"place de stalingrad";2
+"324";"place denfer";2
+"325";"place des vélos";2
+"326";"place du caroussel";2
+"327";"place du carrousel";2
+"328";"place du même";2
+"329";"place est";2
+"330";"place iéna";2
+"331";"place pereire";2
+"332";"place st michel";2
+"333";"place sur";2
+"334";"porte clichy";2
+"335";"porte d'asnieres";2
+"336";"porte d'auteuil";2
+"337";"porte de bercy";2
+"338";"porte de la muette";2
+"339";"porte de saint-cloud";2
+"340";"porte de saint ouen";2
+"341";"porte saint martin";2
+"342";"route mais";2
+"343";"route ou";2
+"344";"route parce";2
+"345";"rue alesia";2
+"346";"rue amelot";2
+"347";"rue auber";2
+"348";"rue avec";2
+"349";"rue claude";2
+"350";"rue comme";2
+"351";"rue d";2
+"352";"rue d'aubervilliers";2
+"353";"rue d'hauteville";2
+"354";"rue de courcelles";2
+"355";"rue de flandre";2
+"356";"rue de flandres";2
+"357";"rue de l'amiral";2
+"358";"rue de la";2
+"359";"rue de la fayette";2
+"360";"rue de miromesnil";2
+"361";"rue de sevres";2
+"362";"rue de vouillé";2
+"363";"rue des archives";2
+"364";"rue des entrepreneurs";2
+"365";"rue des saints";2
+"366";"rue des vignoles";2
+"367";"rue du";2
+"368";"rue du bac";2
+"369";"rue du commandant";2
+"370";"rue du commerce";2
+"371";"rue du faubourg st martin";2
+"372";"rue du louvre";2
+"373";"rue du pont";2
+"374";"rue du quatre";2
+"375";"rue et";2
+"376";"rue fbrg";2
+"377";"rue ledru";2
+"378";"rue michel";2
+"379";"rue monge";2
+"380";"rue montmartre";2
+"381";"rue nansouty";2
+"382";"rue ne";2
+"383";"rue où";2
+"384";"rue par";2
+"385";"rue pavées";2
+"386";"rue proudhon";2
+"387";"rue que";2
+"388";"rue reaumur";2
+"389";"rue saint antoine";2
+"390";"rue sens";2
+"391";"rue st antoine";2
+"392";"rue st denis";2
+"393";"rue st martin";2
+"394";"rue st maur";2
+"395";"rue taine";2
+"396";"rue vaugirard";2
+"397";"rue vercingetorix";2
+"398";"rue vercingétorix";2
+"399";"avenue andré";1
+"400";"avenue clichy";1
+"401";"avenue d'avron";1
+"402";"avenue d'iena";1
+"403";"avenue dans";1
+"404";"avenue dausmenil";1
+"405";"avenue david";1
+"406";"avenue de belleville";1
+"407";"avenue de châtelet";1
+"408";"avenue de fontainebleau";1
+"409";"avenue de friedland";1
+"410";"avenue de l";1
+"411";"avenue de magenta";1
+"412";"avenue de neuilly";1
+"413";"avenue de new";1
+"414";"avenue de paris";1
+"415";"avenue de porte";1
+"416";"avenue de rivoli";1
+"417";"avenue de saint-ouen";1
+"418";"avenue de st maurice";1
+"419";"avenue des flandres";1
+"420";"avenue diderot";1
+"421";"avenue du docteur";1
+"422";"avenue du general de";1
+"423";"avenue du general leclerc";1
+"424";"avenue du général lecletc";1
+"425";"avenue du nord";1
+"426";"avenue du président";1
+"427";"avenue entre";1
+"428";"avenue general leclerc";1
+"429";"avenue george";1
+"430";"avenue grande";1
+"431";"avenue j";1
+"432";"avenue jfk";1
+"433";"avenue jules";1
+"434";"avenue jusqu";1
+"435";"avenue kléber";1
+"436";"avenue lafayette";1
+"437";"avenue majenta";1
+"438";"avenue marx";1
+"439";"avenue michel";1
+"440";"avenue michelet";1
+"441";"avenue montaigne";1
+"442";"avenue opéra";1
+"443";"avenue ou";1
+"444";"avenue parallèle";1
+"445";"avenue pierre";1
+"446";"avenue porte";1
+"447";"avenue raymond";1
+"448";"avenue reille";1
+"449";"avenue rendant";1
+"450";"avenue rêne";1
+"451";"avenue voltaires";1
+"452";"boulevard arago";1
+"453";"boulevard avec";1
+"454";"boulevard batignoles";1
+"455";"boulevard batignolled";1
+"456";"boulevard bessiere";1
+"457";"boulevard circulaire";1
+"458";"boulevard d";1
+"459";"boulevard d'ornano";1
+"460";"boulevard de barbès";1
+"461";"boulevard de beleville";1
+"462";"boulevard de belle";1
+"463";"boulevard de bercy";1
+"464";"boulevard de convention";1
+"465";"boulevard de garibaldi";1
+"466";"boulevard de l'opéra";1
+"467";"boulevard de la bataille";1
+"468";"boulevard de la chappelle";1
+"469";"boulevard de menilmontant";1
+"470";"boulevard de montparnasse";1
+"471";"boulevard de picpus";1
+"472";"boulevard de reuilly";1
+"473";"boulevard de rochechouard";1
+"474";"boulevard de sébastapol";1
+"475";"boulevard des batignolles";1
+"476";"boulevard des capucins";1
+"477";"boulevard des gobelins";1
+"478";"boulevard des invalides";1
+"479";"boulevard des maraichaux";1
+"480";"boulevard devant";1
+"481";"boulevard du faubourg montmartre";1
+"482";"boulevard du général d";1
+"483";"boulevard du general leclerc";1
+"484";"boulevard du général leclerc";1
+"485";"boulevard du port";1
+"486";"boulevard etc";1
+"487";"boulevard exelman";1
+"488";"boulevard exelmans";1
+"489";"boulevard froidevaux";1
+"490";"boulevard gambetta";1
+"491";"boulevard gouvion";1
+"492";"boulevard henri";1
+"493";"boulevard kellermann";1
+"494";"boulevard la chapelle";1
+"495";"boulevard lenoir";1
+"496";"boulevard majenta";1
+"497";"boulevard malesher";1
+"498";"boulevard malesherbe";1
+"499";"boulevard malsherbe";1
+"500";"boulevard mangeta";1
+"501";"boulevard marcel";1
+"502";"boulevard menilmontant";1
+"503";"boulevard ménilmontant";1
+"504";"boulevard morland";1
+"505";"boulevard partant";1
+"506";"boulevard peirere";1
+"507";"boulevard péreire";1
+"508";"boulevard réaumur";1
+"509";"boulevard richechouart";1
+"510";"boulevard rivoli";1
+"511";"boulevard saint-jacques";1
+"512";"boulevard saint antoine";1
+"513";"boulevard saintgermain";1
+"514";"boulevard st antoine";1
+"515";"boulevard st denis";1
+"516";"boulevard st mivhrl";1
+"517";"boulevard st.germain";1
+"518";"boulevard ternes";1
+"519";"boulevard très";1
+"520";"boulevard villette";1
+"521";"place alésia";1
+"522";"place andré";1
+"523";"place au";1
+"524";"place balard";1
+"525";"place barbès";1
+"526";"place beaucoup";1
+"527";"place bienvenue";1
+"528";"place cambronne";1
+"529";"place ch";1
+"530";"place châtelet";1
+"531";"place concore";1
+"532";"place d'alesia";1
+"533";"place d'austerlitz";1
+"534";"place d'italié";1
+"535";"place dans";1
+"536";"place daumesnile";1
+"537";"place de croiser";1
+"538";"place de faire";1
+"539";"place de l'arc";1
+"540";"place de l'opera";1
+"541";"place de l'toile";1
+"542";"place de la";1
+"543";"place de la bastielle";1
+"544";"place de la catalogne";1
+"545";"place de la concerde";1
+"546";"place de labastille";1
+"547";"place de paris";1
+"548";"place de pistes";1
+"549";"place de stationnement";1
+"550";"place démesurée";1
+"551";"place des fêtes";1
+"552";"place des pistes";1
+"553";"place donné";1
+"554";"place du carroussel";1
+"555";"place du général catroux";1
+"556";"place du louvres";1
+"557";"place du montparnasse";1
+"558";"place du palais";1
+"559";"place du père";1
+"560";"place du petit";1
+"561";"place du tram";1
+"562";"place du trocadero";1
+"563";"place edmond";1
+"564";"place entre";1
+"565";"place et";1
+"566";"place etoile";1
+"567";"place étoile";1
+"568";"place félix";1
+"569";"place joinville";1
+"570";"place la plus";1
+"571";"place lachambaudie";1
+"572";"place lachambeaudie";1
+"573";"place mazas";1
+"574";"place ou";1
+"575";"place partout";1
+"576";"place pas";1
+"577";"place pigalle";1
+"578";"place prosper";1
+"579";"place république";1
+"580";"place respectives";1
+"581";"place saint-augustin";1
+"582";"place une";1
+"583";"place v";1
+"584";"porte balard";1
+"585";"porte clignancourt";1
+"586";"porte d'arcueil";1
+"587";"porte d'asnière";1
+"588";"porte d'aubervillier";1
+"589";"porte d'orléan";1
+"590";"porte d'orleans";1
+"591";"porte de";1
+"592";"porte de aubervilliers";1
+"593";"porte de bagnollet";1
+"594";"porte de champerret";1
+"595";"porte de charenton";1
+"596";"porte de clignacourt";1
+"597";"porte de clignantcourt";1
+"598";"porte de gambetta";1
+"599";"porte de l'enfer";1
+"600";"porte de la chappelle";1
+"601";"porte de la gare";1
+"602";"porte de la vilette";1
+"603";"porte de leurs";1
+"604";"porte de passy";1
+"605";"porte de saint cloud";1
+"606";"porte de sèvres";1
+"607";"porte de st cloud";1
+"608";"porte de st ouen";1
+"609";"porte des voitures";1
+"610";"porte donc";1
+"611";"porte du clichy";1
+"612";"porte duaphine";1
+"613";"porte est";1
+"614";"porte la direction";1
+"615";"porte la présence";1
+"616";"porte ne";1
+"617";"porte orleans";1
+"618";"porte ou";1
+"619";"porte pas";1
+"620";"porte pouchet";1
+"621";"porte quel";1
+"622";"porte quelle";1
+"623";"porte saint denis";1
+"624";"porte saint martins";1
+"625";"porte soudainement";1
+"626";"porte st cloud";1
+"627";"porte st martin";1
+"628";"porte villette";1
+"629";"route a";1
+"630";"route alors";1
+"631";"route après";1
+"632";"route assez";1
+"633";"route au";1
+"634";"route autre";1
+"635";"route comme";1
+"636";"route contre";1
+"637";"route cyclable";1
+"638";"route de manière";1
+"639";"route de part";1
+"640";"route de pigalle";1
+"641";"route des velos";1
+"642";"route des voitures";1
+"643";"route du vélo";1
+"644";"route encore";1
+"645";"route entre";1
+"646";"route envers";1
+"647";"route étroite";1
+"648";"route eux";1
+"649";"route généralisé";1
+"650";"route insuffisante";1
+"651";"route la plupart";1
+"652";"route le cycliste";1
+"653";"route motorisée";1
+"654";"route n'est";1
+"655";"route n'importe";1
+"656";"route pavée";1
+"657";"route précis";1
+"658";"route puisqu";1
+"659";"route semblent";1
+"660";"route séparés";1
+"661";"route serait";1
+"662";"route sur";1
+"663";"route traversant";1
+"664";"route tu";1
+"665";"route ultra";1
+"666";"route vers";1
+"667";"rue a";1
+"668";"rue abel";1
+"669";"rue alexandre";1
+"670";"rue amsterdam";1
+"671";"rue au";1
+"672";"rue aucun";1
+"673";"rue avant";1
+"674";"rue bagnolet";1
+"675";"rue bargue";1
+"676";"rue barrault";1
+"677";"rue basfroi";1
+"678";"rue baudricourt";1
+"679";"rue beaudricourt";1
+"680";"rue belgrand";1
+"681";"rue belleville";1
+"682";"rue berthollet";1
+"683";"rue bichat";1
+"684";"rue boissy";1
+"685";"rue buzelin";1
+"686";"rue cabanis";1
+"687";"rue caplat";1
+"688";"rue car";1
+"689";"rue cardinet";1
+"690";"rue chanzy";1
+"691";"rue charonne";1
+"692";"rue châteaudun";1
+"693";"rue clignancourt";1
+"694";"rue clisson";1
+"695";"rue convention";1
+"696";"rue curial";1
+"697";"rue custine";1
+"698";"rue d'arcole";1
+"699";"rue d'artois";1
+"700";"rue d'assas";1
+"701";"rue d'asterdam";1
+"702";"rue d'aubervillier";1
+"703";"rue damrémont";1
+"704";"rue danrémont";1
+"705";"rue dans";1
+"706";"rue dantzig";1
+"707";"rue de boulainvilliers";1
+"708";"rue de buffon";1
+"709";"rue de castiglione";1
+"710";"rue de chabrol";1
+"711";"rue de chateau";1
+"712";"rue de cléry";1
+"713";"rue de clignancourt";1
+"714";"rue de cluny";1
+"715";"rue de dunkerque";1
+"716";"rue de faubourg saint-denis";1
+"717";"rue de fsb";1
+"718";"rue de l'arrivée";1
+"719";"rue de l'espérance";1
+"720";"rue de l'opera";1
+"721";"rue de l'opéra";1
+"722";"rue de la boëtie";1
+"723";"rue de la chappelle";1
+"724";"rue de la concention";1
+"725";"rue de la condamine";1
+"726";"rue de la fidélité";1
+"727";"rue de la glacière";1
+"728";"rue de la grange";1
+"729";"rue de la légion";1
+"730";"rue de la marseillaise";1
+"731";"rue de la muette";1
+"732";"rue de la pépinère";1
+"733";"rue de la procession";1
+"734";"rue de la république";1
+"735";"rue de la tombe";1
+"736";"rue de lancry";1
+"737";"rue de lobau";1
+"738";"rue de londres";1
+"739";"rue de madrid";1
+"740";"rue de magenta";1
+"741";"rue de meaux";1
+"742";"rue de ménilmontant";1
+"743";"rue de metz";1
+"744";"rue de mézières";1
+"745";"rue de mirador";1
+"746";"rue de ormeaux";1
+"747";"rue de paradisne";1
+"748";"rue de passy";1
+"749";"rue de picpus";1
+"750";"rue de ponthieu";1
+"751";"rue de pyrénées";1
+"752";"rue de réaumur";1
+"753";"rue de reuilly";1
+"754";"rue de rivolie";1
+"755";"rue de saint-antoine";1
+"756";"rue de saint pétersbourg";1
+"757";"rue de saussure";1
+"758";"rue de sébastopol";1
+"759";"rue de sebastopole";1
+"760";"rue de seine";1
+"761";"rue de taille";1
+"762";"rue de tanger";1
+"763";"rue de tilsit";1
+"764";"rue de tilsitt";1
+"765";"rue de turenne";1
+"766";"rue de vercingetorix";1
+"767";"rue de verneuil";1
+"768";"rue dejerine";1
+"769";"rue des bernardins";1
+"770";"rue des blancs";1
+"771";"rue des boulets";1
+"772";"rue des cascades";1
+"773";"rue des couronnes";1
+"774";"rue des ecoles";1
+"775";"rue des écoles";1
+"776";"rue des faubourgs";1
+"777";"rue des fossés";1
+"778";"rue des franc";1
+"779";"rue des francs";1
+"780";"rue des petits";1
+"781";"rue des peupliers";1
+"782";"rue des plâtrières";1
+"783";"rue des pyramides";1
+"784";"rue des pyrénnées";1
+"785";"rue descendantes";1
+"786";"rue dormoy";1
+"787";"rue doudeauville";1
+"788";"rue du cardinal";1
+"789";"rue du cherche";1
+"790";"rue du départ";1
+"791";"rue du dessous";1
+"792";"rue du faboueg";1
+"793";"rue du faubourg";1
+"794";"rue du faubourg saint et";1
+"795";"rue du faubourg st honoré";1
+"796";"rue du faubourgs";1
+"797";"rue du fbourg";1
+"798";"rue du four";1
+"799";"rue du maroc";1
+"800";"rue du mont";1
+"801";"rue du parvis";1
+"802";"rue du père";1
+"803";"rue du petit";1
+"804";"rue du pré";1
+"805";"rue du ranelagh";1
+"806";"rue du rivoli";1
+"807";"rue du saint gothard";1
+"808";"rue du transvaal";1
+"809";"rue du trésor";1
+"810";"rue du vieux";1
+"811";"rue dunois";1
+"812";"rue duphot";1
+"813";"rue emile";1
+"814";"rue émile";1
+"815";"rue endommagent";1
+"816";"rue était";1
+"817";"rue étant";1
+"818";"rue etienne";1
+"819";"rue étroites";1
+"820";"rue f";1
+"821";"rue fait";1
+"822";"rue faubourg du";1
+"823";"rue fléchier";1
+"824";"rue froideveau";1
+"825";"rue gandon";1
+"826";"rue ganneron";1
+"827";"rue geoffrey";1
+"828";"rue gutembreg";1
+"829";"rue henri";1
+"830";"rue jacob";1
+"831";"rue joseph";1
+"832";"rue jouffroy";1
+"833";"rue jusqu";1
+"834";"rue la chapelle";1
+"835";"rue la nuit";1
+"836";"rue lacépede";1
+"837";"rue le mieux";1
+"838";"rue léon";1
+"839";"rue leroi";1
+"840";"rue linois";1
+"841";"rue lorsqu";1
+"842";"rue lourmel";1
+"843";"rue magenta";1
+"844";"rue mais";1
+"845";"rue manin";1
+"846";"rue mansouty";1
+"847";"rue marceau";1
+"848";"rue mendelssohn";1
+"849";"rue molitor";1
+"850";"rue mortelle";1
+"851";"rue moufle";1
+"852";"rue n";1
+"853";"rue notre";1
+"854";"rue on";1
+"855";"rue ordonner";1
+"856";"rue orfila";1
+"857";"rue pajol";1
+"858";"rue paradis";1
+"859";"rue parc";1
+"860";"rue pernety";1
+"861";"rue perpendiculaire";1
+"862";"rue petit";1
+"863";"rue petite";1
+"864";"rue pierre";1
+"865";"rue pouchet";1
+"866";"rue procession";1
+"867";"rue pyrénée";1
+"868";"rue qui";1
+"869";"rue rambuteau";1
+"870";"rue raymond";1
+"871";"rue rebeval";1
+"872";"rue richard";1
+"873";"rue richet";1
+"874";"rue richier";1
+"875";"rue rigolo";1
+"876";"rue roquet";1
+"877";"rue saint-charles";1
+"878";"rue saint-philippe";1
+"879";"rue saint maur";1
+"880";"rue sans";1
+"881";"rue saulnier";1
+"882";"rue sedaine";1
+"883";"rue sigmund";1
+"884";"rue simon";1
+"885";"rue soit";1
+"886";"rue soufflot";1
+"887";"rue st charles";1
+"888";"rue st lazare";1
+"889";"rue st peres";1
+"890";"rue subuet";1
+"891";"rue tronchet";1
+"892";"rue trop";1
+"893";"rue truffaut";1
+"894";"rue turbigot";1
+"895";"rue unique";1
+"896";"rue vauquelin";1
+"897";"rue vavin";1
+"898";"rue victor";1
+"899";"rue vitruve";1
+"900";"rue vouillé";1
