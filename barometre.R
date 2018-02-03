@@ -36,4 +36,8 @@ count_mots_rues_paris <- mots_rues_paris %>% count(value) %>% arrange(desc(n))
 
 #reste à faire: enlever les données vides ; vérifier la syntaxe du pattern de recherche; écrire les données
 # dans un fichier lisible ; trouver les points noirs avec le plus grand nombre d'occurences
-#write.csv2(rues_paris,file="rues.csv")
+
+# Ecrire les résultats dans des fichiers
+write.csv2(count_rues_paris,"count_rues_paris.csv")
+write.csv2(count_mots_rues_paris, "count_mots_rues_paris.csv")
+write.csv2(count_mots_paris, "count_mots_paris.csv")

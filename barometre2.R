@@ -17,3 +17,5 @@ rues_count <- rues_tbl %>%
   mutate(lower = str_to_lower(value)) %>%
   mutate(count= str_count(string=data_paris_tbl[,4],pattern = lower)) %>%
   arrange(desc(count))
+
+write.csv2(rues_count,"comp_liste_rues.csv")
